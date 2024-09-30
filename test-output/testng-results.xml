@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-30T17:28:23 IST" name="Default suite" finished-at="2024-09-30T17:28:59 IST" duration-ms="35350">
+    <groups>
+    </groups>
+    <test started-at="2024-09-30T17:28:23 IST" name="Default test" finished-at="2024-09-30T17:28:59 IST" duration-ms="35350">
+      <class name="testScripts.TruepowerTest">
+        <test-method is-config="true" signature="BC()[pri:0, instance:testScripts.TruepowerTest@73eb439a]" started-at="2024-09-30T17:28:23 IST" name="BC" finished-at="2024-09-30T17:28:25 IST" duration-ms="1814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:testScripts.TruepowerTest@73eb439a]" started-at="2024-09-30T17:28:25 IST" name="BM" finished-at="2024-09-30T17:28:38 IST" duration-ms="12706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="truepower()[pri:0, instance:testScripts.TruepowerTest@73eb439a]" started-at="2024-09-30T17:28:38 IST" name="truepower" finished-at="2024-09-30T17:28:59 IST" duration-ms="20777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- truepower -->
+      </class> <!-- testScripts.TruepowerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
